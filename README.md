@@ -1,4 +1,4 @@
-# lung_cancer
+# Lung cancer risk prediction with machine learning models
 
 Project link- [https://drive.google.com/file/d/1pqerAdekcaO34304-j7UVsrvUKeAowFl/view?usp=sharing](https://drive.google.com/file/d/1pqerAdekcaO34304-j7UVsrvUKeAowFl/view?usp=sharing)
 
